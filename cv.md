@@ -15,3 +15,11 @@ One of my goals is to start a career as a frond-end developer. I'm easy to learn
 
 * HTML/CSS  
 * JavaScript  
+
+## Education:  
+
+* Belarusian State University of Informatics and Radioelectronics  
+
+## English:  
+
+* Pre-Intermediate+
